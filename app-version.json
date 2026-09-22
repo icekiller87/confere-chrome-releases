@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.3",
+  "versionCode": 8,
+  "versionName": "1.1.4",
   "apkUrl": "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
-  "sha256": "b34a55d5b3faeb23fcef9f053ecde437c334c85b1209ed002f7abbb938611e98",
-  "notes": "Admin com filtros por data e tipo, páginas diárias de até 10 dias, exportação em PDF e Excel, exclusão de dispositivos, login mobile centralizado, campo Sala / Professor, logs criados somente após o primeiro QR e descarte de entregas com quantidade esperada incompleta."
+  "sha256": "ac3e6f3e64a352af59c7b07611b98937198a7546142b9da83b38f23590cc680d",
+  "notes": "Revisão dos prompts anteriores, painel Admin validado com OpenDesign, ciclo de devolução Pendente corrigido sem finalização indevida e consistência de logs reforçada."
 }
