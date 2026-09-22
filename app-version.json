@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "1.1.2",
-  "apkUrl": "https://github.com/icekiller87/confere-chrome-releases/releases/download/v1.1.2/confere-chrome.apk",
+  "apkUrl": "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
   "sha256": "97be0e170a6858968d091ff74f7c4be211f2ae104fc9348045d17978c898920a",
   "notes": "Corrige a seleção e retomada de salas na devolução, exibe apenas salas ainda abertas e adiciona ícone ao aplicativo."
 }
