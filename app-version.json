@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.4",
+  "versionCode": 9,
+  "versionName": "1.1.5",
   "apkUrl": "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
-  "sha256": "ac3e6f3e64a352af59c7b07611b98937198a7546142b9da83b38f23590cc680d",
-  "notes": "Revisão dos prompts anteriores, painel Admin validado com OpenDesign, ciclo de devolução Pendente corrigido sem finalização indevida e consistência de logs reforçada."
+  "sha256": "38153f2baa31c3ec672b6ef37da7678cd238ce00f8c2f8e8962b72db6297c3af",
+  "notes": "Página de download revisada, autorização Android com tela mínima para dispositivos conhecidos e feedback de demora, Admin com ordenação/última atualização/status forçado em destaque e PDFs estruturados."
 }
