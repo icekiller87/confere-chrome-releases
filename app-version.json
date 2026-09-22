@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/icekiller87/confere-chrome-releases/releases/download/v1.1.1/confere-chrome.apk",
-  "sha256": "3733b72b3134ce5dd58036df19649aaa47ea06dbe2f4798c0cd3017aada91b15",
-  "notes": "Entregas permanecem Em andamento até a devolução completa; devoluções parciais ficam Pendente; retomada aceita Pendente/Em andamento; salas finalizadas não aparecem na devolução; Admin pode registrar devolução ou forçar finalização."
+  "versionCode": 6,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/icekiller87/confere-chrome-releases/releases/download/v1.1.2/confere-chrome.apk",
+  "sha256": "97be0e170a6858968d091ff74f7c4be211f2ae104fc9348045d17978c898920a",
+  "notes": "Corrige a seleção e retomada de salas na devolução, exibe apenas salas ainda abertas e adiciona ícone ao aplicativo."
 }
