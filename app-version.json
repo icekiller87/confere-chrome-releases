@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.2",
+  "versionCode": 7,
+  "versionName": "1.1.3",
   "apkUrl": "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
-  "sha256": "97be0e170a6858968d091ff74f7c4be211f2ae104fc9348045d17978c898920a",
-  "notes": "Corrige a seleção e retomada de salas na devolução, exibe apenas salas ainda abertas e adiciona ícone ao aplicativo."
+  "sha256": "b34a55d5b3faeb23fcef9f053ecde437c334c85b1209ed002f7abbb938611e98",
+  "notes": "Admin com filtros por data e tipo, páginas diárias de até 10 dias, exportação em PDF e Excel, exclusão de dispositivos, login mobile centralizado, campo Sala / Professor, logs criados somente após o primeiro QR e descarte de entregas com quantidade esperada incompleta."
 }
