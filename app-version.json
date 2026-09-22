@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/icekiller87/confere-chrome-releases/releases/download/v1.0.1/confere-chrome.apk",
-  "sha256": "0efcad2ee8d6d1aabc9391dabbcc9f309a9c5b13c7e16d074f5dca7489f52867",
-  "notes": "Primeira versão com atualizações integradas, câmera nativa, foco por toque e controles de lente/zoom."
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/icekiller87/confere-chrome-releases/releases/download/v1.0.2/confere-chrome.apk",
+  "sha256": "0fa0db62627157dd47466e50db57c0c86591f186ec4378fe89405a6e9c4d503a",
+  "notes": "Atualizador integrado refinado: checagem ao abrir e ao retornar ao app, validação SHA-256, download seguro e instalação assistida pelo Android."
 }
