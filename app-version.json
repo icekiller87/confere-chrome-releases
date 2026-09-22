@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/icekiller87/confere-chrome-releases/releases/download/v1.1.0/confere-chrome.apk",
-  "sha256": "2bde88bcc4eea9e70ffcd783334c84a45b40379d7e50ac1e550d50c48f54a2d8",
-  "notes": "Autorização de dispositivos, devoluções pendentes e retomáveis, painel de dispositivos e saída da câmera para a tela inicial sem finalizar a sessão."
+  "versionCode": 5,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/icekiller87/confere-chrome-releases/releases/download/v1.1.1/confere-chrome.apk",
+  "sha256": "3733b72b3134ce5dd58036df19649aaa47ea06dbe2f4798c0cd3017aada91b15",
+  "notes": "Entregas permanecem Em andamento até a devolução completa; devoluções parciais ficam Pendente; retomada aceita Pendente/Em andamento; salas finalizadas não aparecem na devolução; Admin pode registrar devolução ou forçar finalização."
 }
