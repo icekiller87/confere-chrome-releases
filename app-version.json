@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.5",
-  "apkUrl": "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
-  "sha256": "38153f2baa31c3ec672b6ef37da7678cd238ce00f8c2f8e8962b72db6297c3af",
-  "notes": "Página de download revisada, autorização Android com tela mínima para dispositivos conhecidos e feedback de demora, Admin com ordenação/última atualização/status forçado em destaque e PDFs estruturados."
+    "versionCode":  10,
+    "versionName":  "1.1.6",
+    "apkUrl":  "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
+    "sha256":  "55ada581327ee393c39eeed561d00f769eb9dda49e27c75dd4d39c38d8389434",
+    "notes":  "Devolução automática por QR com identificação de Sala/Professor, progresso sincronizado em tempo real no APK e no Admin, atualização silenciosa sem recarregar a página, lista de devoluções abertas com rolagem/maximização, pop-ups de finalização e botão Finalizar."
 }
