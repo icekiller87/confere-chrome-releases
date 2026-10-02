@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.9",
-  "apkUrl": "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
-  "sha256": "c1fa68482db81210aa7d3f9cada230f0002bbf05913274482c9a59d0cd71bf41",
-  "notes": "Cancelamento de entrega/troca de sala com restauração dos Chromebooks da sala anterior."
+    "versionCode":  13,
+    "versionName":  "1.1.9",
+    "apkUrl":  "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
+    "sha256":  "0be00b521e895845597974cbfe67168edfb60cfd38d9ca31b9390345f8730605",
+    "notes":  "Devolução de vários Chromebooks em sequência, aviso único de transferência e aviso quando o Chromebook já foi devolvido."
 }
