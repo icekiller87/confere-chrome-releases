@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.1.6",
+    "versionCode":  11,
+    "versionName":  "1.1.7",
     "apkUrl":  "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
-    "sha256":  "55ada581327ee393c39eeed561d00f769eb9dda49e27c75dd4d39c38d8389434",
-    "notes":  "Devolução automática por QR com identificação de Sala/Professor, progresso sincronizado em tempo real no APK e no Admin, atualização silenciosa sem recarregar a página, lista de devoluções abertas com rolagem/maximização, pop-ups de finalização e botão Finalizar."
+    "sha256":  "6af2277d4673f9126ae343ecdf5eee1e61b66f353b8117c7da0071d6e566388b",
+    "notes":  "Novo seletor de instituiÃ§Ã£o: escolha Itaigara ou Patamares diretamente no APK."
 }
