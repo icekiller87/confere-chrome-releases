@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.8",
+  "versionCode": 13,
+  "versionName": "1.1.9",
   "apkUrl": "https://confere-chrome.netlify.app/downloads/confere-chrome.apk",
-  "sha256": "14d21565a5fccb7336225c1831f66e50ac1b4ed026fd43c6e1e3ebacccde58be",
-  "notes": "Correções no atualizador, cadastro somente por código da escola e exclusão de dispositivos pendentes."
+  "sha256": "DAC685B1E9CAA2D80CEF768DE0D84BF17EB8E6D770A545BBE5B1B8DE80B9CAF5",
+  "notes": "Transferência automática de Chromebooks ao iniciar uma nova sala, aviso de transferência na bipagem e renomeação de sala no Admin."
 }
